@@ -8,7 +8,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Kamal',  # Your name
     author_email='kamalakk16107@gmail.com',  # Your email
-    url='https://github.com/your_username/FlowXcel',  # Your project URL or GitHub repo
+    url='https://github.com/Kamal1612-sys/kamal_module-RL-flowexcel',  # Your project URL or GitHub repo
     packages=find_packages(),  # Automatically finds packages to include
     install_requires=[  # List any dependencies your module needs
         'matplotlib',  # Example, add others as needed
